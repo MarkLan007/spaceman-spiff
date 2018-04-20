@@ -1,0 +1,1029 @@
+http says:
+http says:
+http says:<!DOCTYPE html>
+http says:
+http says:<html lang="en-US" class="no-js">
+http says:
+http says:<!-- BEGIN:  Compass/HomePage3 -->
+http says:
+http says:
+http says:
+http says:<!--  BEGIN:  Compass/HomePage3/Head-HTML -->
+http says:
+http says:
+http says:
+http says:<head> 
+http says:
+http says:	<title>Oracle | Integrated Cloud Applications and Platform Services</title>
+http says:	<meta name="Title" content="Oracle | Integrated Cloud Applications and Platform Services">
+http says:	
+http says:		<meta name="Description" content="Oracle offers a comprehensive and fully integrated stack of cloud applications and platform services.">
+http says:	
+http says:	<meta name="Keywords" content="enterprise, applications, software, database, middleware, fusions, business, hardware, Oracle">	
+http says:	
+http says:	
+http says:	<meta name="robots" content="index, follow">
+http says:
+http says:	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+http says:
+http says:	
+http says:
+http says:	<meta name="country" content="United States">
+http says:	<meta name="Language" content="en">
+http says:	<meta name="siteid" content="us">
+http says:	<meta name="countryid" content="US">
+http says:	<meta name="Updated Date" content="2015-07-29T12:08:59Z">
+http says:
+http says:	
+http says:
+http says:	<link href='//www.oracle.com/asset/web/css/ocom-home-v3.css' media="print, screen" rel="Stylesheet" type="text/css" />
+http says:
+http says:	
+http says:
+http says:	<script language="JavaScript" src='//www.oracle.com/asset/web/js/jquery.js' type="text/javascript"></script>
+http says:	<script type="text/javascript" src='//www.oracle.com/asset/web/js/ocom-home-v3.js'></script>
+http says:
+http says:	<script async="async" type="text/javascript" src='//consent.truste.com/notice?domain=oracle.com&c=teconsent&js=bb&noticeType=bb&text=true' crossorigin></script>
+http says:
+http says:	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+http says:
+http says:	
+http says:<!-- BEGIN: ocom/global/components/Social-Media-Meta-Tags -->
+http says:
+http says:
+http says:
+http says:<!-- END: ocom/global/components/Social-Media-Meta-Tags -->
+http says:<!-- start : ocom/common/global/components/seo-hreflang-meta-tags -->
+http says:					<link rel="alternate" hreflang="en-AE" href="https://www.oracle.com/ae/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="ar-AE" href="https://www.oracle.com/ae-ar/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="es-AR" href="https://www.oracle.com/ar/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="en-AU" href="https://www.oracle.com/au/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="pt-BR" href="https://www.oracle.com/br/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="en-CA" href="https://www.oracle.com/ca-en/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="fr-CA" href="https://www.oracle.com/ca-fr/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="zh-CN" href="https://www.oracle.com/cn/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="es-CO" href="https://www.oracle.com/co/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="cs-CZ" href="https://www.oracle.com/cz/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="de-DE" href="https://www.oracle.com/de/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="en-US" href="https://www.oracle.com/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="es-ES" href="https://www.oracle.com/es/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="fr-FR" href="https://www.oracle.com/fr/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="en-IN" href="https://www.oracle.com/in/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="it-IT" href="https://www.oracle.com/it/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="ja-JP" href="https://www.oracle.com/jp/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="ko-KR" href="https://www.oracle.com/kr/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="es-MX" href="https://www.oracle.com/mx/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="nl-NL" href="https://www.oracle.com/nl/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="pl-PL" href="https://www.oracle.com/pl/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="ro-RO" href="https://www.oracle.com/ro/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="ru-RU" href="https://www.oracle.com/ru/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="sv-SE" href="https://www.oracle.com/se/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="tr-TR" href="https://www.oracle.com/tr/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="zh-TW" href="https://www.oracle.com/tw/index.html" />
+http says:					
+http says:					<link rel="alternate" hreflang="en-GB" href="https://www.oracle.com/uk/index.html" />
+http says:					
+http says:					<meta name="altpages" content="ae,ae-ar,ar,au,br,ca-en,ca-fr,cn,co,cz,de,es,fr,in,it,jp,kr,mx,nl,pl,ro,ru,se,tr,tw,uk">
+http says:				<!-- end : ocom/common/global/components/seo-hreflang-meta-tags -->
+http says:
+http says:	<!-- Dispatcher:null -->
+http says:	
+http says:<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+http says:<!-- OCOM HomePage HeadAdminContainer -->
+http says:
+http says:<!--DTM embed code - Header -->
+http says:<script src="//assets.adobedtm.com/6f37a0dc9cdbe818dc4979828b58b88e3f060ea4/satelliteLib-e598c5b61e39a10b402e048e87dd27b0f1cd2d4c.js"></script>
+http says:
+http says:<script type="text/javascript">
+http says: if (location.pathname.indexOf("/ru/") > -1){
+http says: document.write('\x3Cscript async="async" src=//consent.truste.com/notice?domain=oracleru.com&c=teconsent&js=bb&noticeType=bb&text=true crossorigin="">\x3C/script>');
+http says: }
+http says: </script>
+http says:<!--End-->
+http says:
+http says:
+http says:
+http says:<!-- END: oWidget_C/_Raw-Text/Display -->
+http says:
+http says:	<!-- Dispatcher:null -->
+http says:	
+http says:<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+http says:<link rel="canonical" href="https://www.oracle.com/index.html"/>
+http says:
+http says:
+http says:
+http says:<!-- END: oWidget_C/_Raw-Text/Display -->
+http says:
+http says:
+http says:</head>
+http says:
+http says:<!--  END:  Compass/HomePage3/Head-HTML -->
+http says:
+http says:
+http says:
+http says:<!-- BEGIN:  Compass/HomePage3/Element/Body -->
+http says:
+http says:
+http says:<body class="f11 f11v5">
+http says:
+http says:	<!-- Dispatcher:null -->
+http says:	
+http says:<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+http says:<!-- OCOM HomePage StartBodyAdminContainer -->
+http says:
+http says:
+http says:
+http says:<!-- END: oWidget_C/_Raw-Text/Display -->
+http says:
+http says:
+http says:	<div class="f11w1">
+http says:
+http says:		
+http says:	<!-- Dispatcher:null -->
+http says:	
+http says:<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+http says:<!-- U02v0 -->
+http says:<nav class="u02nav">
+http says:<div class="u02" id="u02">
+http says:
+http says:	<div id="u02skip2content" tabindex="-1" data-skiptxtprepend="Skip"  data-skiptxtappend="">
+http says:		<ul>
+http says:			<li><a href="/">Home</a></li>
+http says:			<li><a id="u02skip2c" href="#maincontent">Skip to Content</a></li>
+http says:			<li><a id="u02skip2s" href="#skip_to_search_form">Skip to Search</a></li>
+http says:		</ul>
+http says:	</div>
+http says:
+http says:	<div class="u02w1">
+http says:
+http says:		<!-- logo -->
+http says:		<div class="u02logo" data-trackas="header"><div class="u02logow1"><a href="https://www.oracle.com/index.html" data-trackas="header" data-lbl="logo" class="o_icon"><span>Oracle</span></a></div></div>
+http says:
+http says:		<!-- menu -->
+http says:		<div class="u02menu" data-trackas="menu">
+http says:			<div id="u02main" class="u02mlink">
+http says:				<div class="u02mlinkw1">
+http says:					<a href="/mosaic-menu/index.html" id="u02menulink" data-lbl="menu">
+http says:						<div class="u02mlinkw2">Menu</div>
+http says:					</a>
+http says:				</div>
+http says:			</div>
+http says:		</div>
+http says:
+http says:		<!-- search -->
+http says:		<div id="u02search" class="u02search" data-trackas="header">
+http says:			<form class="u02searchform" name="searchForm" method="get" action="https://www.oracle.com/search/results">
+http says:				<input type="hidden" name="Nty" value="1">
+http says:				<input type="hidden" name="Ntk" value="S3">
+http says:				<input id="txtSearch" class="textcnt autoclear" name="Ntt" value="">
+http says:				<input class="u02searchbttn" type="submit" value="Submit Search" />
+http says:			</form>
+http says:		</div>
+http says:
+http says:		<div class="u02tools" data-trackas="header">
+http says:			<ul>
+http says:				<!-- user tools -->
+http says:				<li class="u02mtool u02toolsloggedout">
+http says:					<a href="#usermenu" class="u02ticon u02user" data-lbl="profile:sign-in-account">
+http says:						<span class="u02signin">Sign In</span>
+http says:						<span class="u02signout">Account</span>
+http says:					</a>
+http says:					
+http says:					<div class="u02user u02toolpop" data-lbl="profile">
+http says:						<div class="u02userin">
+http says:							<div class="u02userinw1 u02userloggedin" data-lbl="oracle-account">
+http says:								<h5>Oracle Account</h5>
+http says:								<p id="u02userinfo"></p>
+http says:								<a data-lbl="sign-out" href="javascript:sso_sign_out();" id="u02pfile-sout" class="u02bttn">Sign Out</a>
+http says:								<ul id="u02usertools">
+http says:									<li><a data-lbl="account" id="u02pfile-acct" href="https://profile.oracle.com/myprofile/account/secure/update-account.jspx?nexturl=">Account</a></li>
+http says:									<li><a data-lbl="help" href="https://www.oracle.com/corporate/contact/help.html">Help</a></li>
+http says:								</ul>
+http says:
+http says:
+http says:							</div>
+http says:							<div class="u02userinw1 u02userloggedout" data-lbl="oracle-account">
+http says:								<h5>Oracle Account</h5>
+http says:								<p>Manage your account and access personalized content.</p>
+http says:								<a href="http://www.oracle.com/webapps/redirect/signon?nexturl=" id="u02pfile-regs" data-lbl="signin" class="u02bttn">Sign In</a>
+http says:								<ul id="u02usertools">
+http says:									<li><a href="https://profile.oracle.com/myprofile/account/create-account.jspx" data-lbl="createaccount">Create an account</a></li>
+http says:									<li><a data-lbl="help" href="https://www.oracle.com/corporate/contact/help.html">Help</a></li>
+http says:</ul>
+http says:							</div>
+http says:							<div class="u02userinw2" data-lbl="cloud-account">
+http says:								<h5>Cloud Account</h5>
+http says:								<p>Access your cloud dashboard, manage orders, and more.</p>
+http says:								<a href="https://cloud.oracle.com/sign-in" data-lbl="signin" class="u02bttn">Sign In</a>
+http says:<ul class="u02usertools"><li><a data-lbl="cta-cloud-trial-header-account" href="https://cloud.oracle.com/tryit?intcmp=ocom-header">Sign Up&mdash;Free Trial</a></li></ul>
+http says:							</div>
+http says:						</div>
+http says:					</div>
+http says:
+http says:				</li>
+http says:
+http says:
+http says:				<!-- country select -->
+http says:				<li class="u02mtool" id="u02cmenu">
+http says:					<a href="/mosaic-menu/index.html#u02countrymenu" class="u02ticon u02regn"><span>Country/Region</span></a>
+http says:				</li>
+http says:				<!-- call -->
+http says:				<li class="u02mbttn" id="u02call">
+http says:					<a data-lbl="call" href="#callOracle" class="u02ticon u02call o-call"><span>Call</span></a>
+http says:				</li>
+http says:				<!-- chat -->
+http says:				<!--<li class="u02mbttn" id="u02chat">
+http says:					<a data-lbl="chat" href="#chat" class="u02ticon u02chat"><span>Chat</span></a>
+http says:				</li>-->
+http says:			</ul>
+http says:		</div>
+http says:	</div>
+http says:	<a id="maincontent">&nbsp;</a>
+http says:</div>
+http says:</nav>
+http says:<!-- /U02v0 -->
+http says:
+http says:
+http says:
+http says:<!-- END: oWidget_C/_Raw-Text/Display -->
+http says:
+http says:
+http says:<!--  BEGIN:  Compass/HomePage3/Slots -->
+http says:
+http says:
+http says:		<!-- Home Page Widget - 1 -->
+http says:		
+http says:	<!-- Dispatcher:null -->
+http says:	
+http says:<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+http says:			<!-- HP10v0 -->
+http says:				<div class="hp10 hp10v0 hp10random" data-trackas="hp10">
+http says:					<div class="hp10w1">
+http says:
+http says:						<div class="hp10w2 hp10dark" data-lbl="hp:hero1">
+http says:							<img src="" data-bgimg="/a/ocom/img/hp10p4-oracle-cloud.jpg" data-bgimg2x="/a/ocom/img/hp10p4-oracle-cloud-2x.jpg" alt="Oracle Database 18c"/>
+http says:							<div class="hp10w3 hp10left">
+http says:								<div class="hp10w4" data-lbl="oracle-database-18c">
+http says:									<h1>Oracle Database 18c:<br />Now Available</h1>
+http says:									<p>Delivers multitenant architecture, database in-memory, and Oracle Database Sharding.</p>
+http says:									<a class="icn-arrowthn hp10btn" data-lbl="cta-button:cta-022618-db18c-full-details" href="https://blogs.oracle.com/database/oracle-database-18c-:-now-available-on-the-oracle-cloud-and-oracle-engineered-systems">Full product details</a>
+http says:									<a class="icn-arrowthn hp10btn" data-lbl="cta-button:cta-030119-18c-live-sql" href="https://livesql.oracle.com/apex/livesql/file/index.html">Try Oracle Database 18c on Live SQL</a>
+http says:								</div>
+http says:							</div>
+http says:						</div>
+http says:						
+http says:						<div class="hp10w2 hp10dark" data-lbl="hp:hero2">
+http says:							<img src="" data-bgimg="/a/ocom/img/hp10p4-call-for-speakers.jpg" data-bgimg2x="/a/ocom/img/hp10p4-call-for-speakers-2x.jpg" alt="Oracle OpenWorld 2018: Call for Speakers Now Open"/>
+http says:							<div class="hp10w3 hp10left">
+http says:								<div class="hp10w4" data-lbl="openworld-2018-call-for-papers">
+http says:									<h1>Oracle OpenWorld 2018: Call for Speakers Now Open</h1>
+http says:									
+http says:									<a data-lbl="cta-button:cta-022818-oow-cfs" href="https://reg.rainfocus.com/flow/oracle/oow18/oow18cfp/cfpHome" target="_blank" class="icn-arrowthn hp10btn">Submit your proposal</a>
+http says:									
+http says:									<a data-lbl="cta-button:cta-022818-oow-more-info" href="/openworld/index.html" class="icn-arrowthn hp10btn">Get more info: Oracle OpenWorld 2018</a>
+http says:                                    
+http says:								</div>
+http says:							</div>
+http says:						</div>
+http says:                 		
+http says:						<div class="hp10w2 hp10dark" data-lbl="hp:hero3">
+http says:							<img src="" data-bgimg="/a/ocom/img/hp10p2-hcm-world.jpg" data-bgimg2x="/a/ocom/img/hp10p2-hcm-world-2x.jpg" alt="Oracle HCM World"/>
+http says:							<div class="hp10w3 hp10right">
+http says:								<div class="hp10w4" data-lbl="oracle-hcm-world">
+http says:									<h1>Oracle HCM World: Boost Employee Engagement</h1>
+http says:									<p>Over 80% of sessions will be led by HR customers. March 20-22 in Dallas. Use code <strong>HCM1095</strong> to pay only $1,095 through March 19. </p>
+http says:									<a data-lbl="cta-button:cta-030118-peers-hcm-world" href="https://go.oracle.com/hcmworld?elqCampaignId=102333&src1=:ow:o:h:feb:OcomHome2&intcmp=WWMK170609P00077:ow:o:h:feb:OcomHome2" class="icn-arrowthn hp10btn">Get peer HR insights</a>
+http says:									
+http says:								</div>
+http says:							</div>
+http says:						</div>
+http says:						
+http says:						
+http says:						
+http says:						<div class="hp10w2" data-lbl="hp:hero4">
+http says:							<img src="" data-bgimg="/a/ocom/img/hp10p2-cloud-trial-a-sprite.jpg" data-bgimg2x="/a/ocom/img/hp10p2-cloud-trial-a-sprite-2x.jpg" alt="Oracle Cloud Trial"/>
+http says:							<div class="hp10w3 hp10right">
+http says:								<div class="hp10w4" data-lbl="cloud-trial">
+http says:									<h1>Oracle Cloud Trial:<br />Get $300 in Credits</h1> 
+http says:                                   	<!--<p></p>-->
+http says:                                    <a data-lbl="cta-030119-cloud-trial-free" href="https://cloud.oracle.com/tryit?intcmp=ocom-hp-0318" class="icn-arrowthn hp10btn">Start for free</a>
+http says:                                   
+http says:								</div>
+http says:							</div>
+http says:						</div>
+http says:
+http says:					</div>
+http says:				</div>
+http says:<!-- /HP10v0 -->
+http says:
+http says:<!-- CN24v0 -->
+http says:<div class="cn24 cn24v0 cn24loading" data-trackas="cn24">
+http says:	<div class="cn24w1 cwidth">
+http says:		<div class="cn24w2"><h3>Top Actions</h3></div>
+http says:		<div class="cn24w3" data-lbl="hp:top-actions">
+http says:			<ul>
+http says:
+http says:
+http says:				<li><a href="https://cloud.oracle.com/tryit?intcmp=ocom-hp" data-icon="icn-img icn-cloud-solid icn-circle bgblue beforewhite cn24hoverinvert" data-lbl="loc1:try-cloud-free"><div><span>Try Cloud Free</span></div></a></li>
+http says:
+http says:				<li><a href="https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=3" data-icon="icn-img icn-training icn-circle bggreen beforewhite cn24hoverinvert" data-lbl="loc2:get-training"><div><span>Get Training</span></div></a></li>
+http says:
+http says:				<li><a href="/downloads/index.html" data-icon="icn-img icn-download icn-circle bgslate beforewhite cn24hoverinvert" data-lbl="loc3:trials-and-downloads"><div><span>Trials and Downloads</span></div></a></li>
+http says:
+http says:				<li><a href="/support/index.html" data-icon="icn-img icn-it-professional-female icn-circle bgburgundy beforewhite cn24hoverinvert" data-lbl="loc4:get-support"><div><span>Get <br />Support</span></div></a></li>
+http says:
+http says:				<li><a href="https://developer.oracle.com/" data-icon="icn-img icn-html icn-circle bgorange beforewhite cn24hoverinvert" data-lbl="loc5:develop-on-oracle"><div><span>Develop on Oracle</span></div></a></li>
+http says:			</ul>
+http says:		</div>
+http says:		<div class="cn24w4" data-lbl="hp:top-actions">
+http says:			<a data-lbl="more"><span class="icn-ondark icn-cvthnr-right">More</span></a>
+http says:			<span class="cn24w5">
+http says:				<ul>
+http says:
+http says:					<li><a href="/corporate/careers/index.html" data-lbl="loc6:see-oracle-jobs"><span class="icn-img icn-cvthnr-right-after">See Oracle Jobs</span></a></li>
+http says:					<li><a href="https://community.oracle.com/welcome" data-lbl="loc7:join-your-community"><span class="icn-img icn-cvthnr-right-after">Join Your Community</span></a></li>
+http says:					<li><a href="http://docs.oracle.com/en/" data-lbl="loc8:read-documentation"><span class="icn-img icn-cvthnr-right-after">Read Documentation</span></a></li>
+http says:					<li><a href="https://shop.oracle.com/apex/f?p=dstore:home:0" data-lbl="loc9:buy-online"><span class="icn-img icn-cvthnr-right-after">Buy Online</span></a></li>
+http says:				</ul>
+http says:			</span>
+http says:		</div>
+http says:	</div>
+http says:</div>
+http says:<!-- /CN24v0 -->
+http says:
+http says:<!-- HP11v0 -->
+http says:				<div class="hp11 hp11v0" data-trackas="hp11">
+http says:					<div class="hp11w1">
+http says:					
+http says:					
+http says:						<div class="hp11w2" data-lbl="hp:panelview:cloud">
+http says:							<h3>Cloud</h3>
+http says:							<div class="hp11w3">
+http says:											<div class="hp11w4">
+http says:												<ul>
+http says:													<li>
+http says:														<a data-lbl="cta-loc1:business-transformation:cta-022218-transf-drivers" href="https://www.oracle.com/webfolder/s/assets/digibook/leadtransformation/index.html" class="icn-cvthn-right beforewhite">
+http says:															<div class="hp11w5 o-bgimg" data-bgimg="/a/ocom/img/hp11-business-transformation.jpg">&nbsp;</div>
+http says:
+http says:															<div class="hp11w6">
+http says:															</div>
+http says:															<div class="hp11w7">
+http says:																<h4>BUSINESS TRANSFORMATION</h4>
+http says:																<h3>How to lead and manage ongoing change.</h3>
+http says:																<div class="hp11Arrow"></div>
+http says:																<div class="hp11w8">
+http says:																<hr />
+http says:																Eight experts weigh in on what companies need to succeed.
+http says:																<p><div class="hp11GoBtn">Get the ebook</div></p>
+http says:																</div>
+http says:															</div>
+http says:														</a>
+http says:													</li>
+http says:													<li>
+http says:														<a data-lbl="hp11:hp:panelview:autonomous-services:cta-loc2:aut-cloud-021218:watch-video" rel="brightcoveLightBox" title="Oracle Autonomous Cloud Platform Overview" href="[!--$HttpRelativeWebRoot--]groups/systemobject/@mktg_admin/documents/webcontent/videoplayer-ocom.html?bctid=5730440321001&amp;playerType=single-social&amp;size=events&amp;shareURL=https://www.oracle.com" class="icn-cvthn-right beforewhite">
+http says:															<div class="hp11w5 o-bgimg" data-bgimg="/a/ocom/img/hp11-autonomous-paas.jpg">&nbsp;</div>
+http says:
+http says:															<div class="hp11w6">
+http says:															</div>
+http says:															<div class="hp11w7">
+http says:																<h4>AUTONOMOUS SERVICES</h4>
+http says:																<h3>Oracle EVP Amit Zavery: deliver predictive insights, rapid innovation.</h3>
+http says:																<div class="hp11Video"></div>
+http says:																<div class="hp11w8">
+http says:																<hr />
+http says:																Next-gen services include data management, application development, more.
+http says:																<p><div class="hp11GoBtn">Watch the video</div></p>
+http says:																</div>
+http says:															</div>
+http says:														</a>
+http says:													</li>
+http says:													
+http says:													<li>
+http says:														<a data-lbl="cta-loc3:data-management:cta-021418-ent-data-mgt-details" href="/corporate/pressrelease/oracle-transforms-enterprise-data-management-021318.html" class="icn-cvthn-right beforewhite">
+http says:															<div class="hp11w5 o-bgimg" data-bgimg="/a/ocom/img/hp11-management-cloud.jpg">&nbsp;</div>
+http says:
+http says:															<div class="hp11w6">
+http says:															</div>
+http says:															<div class="hp11w7">
+http says:																<h4>DATA MANAGEMENT</h4>
+http says:																<h3>New: a single platform to manage critical assets such as the Chart of Accounts. </h3>
+http says:																<div class="hp11Arrow"></div>
+http says:																<div class="hp11w8">
+http says:																<hr />
+http says:																 Oracle Enterprise Data Management Cloud rounds out EPM Cloud Suite.
+http says:																<p><div class="hp11GoBtn">More product details</div></p>
+http says:																</div>
+http says:
+http says:															</div>
+http says:														</a>
+http says:													</li>
+http says:													
+http says:													
+http says:													
+http says:												</ul>
+http says:											</div>
+http says:							</div>
+http says:					</div>
+http says:					<div class="hp11w2" data-lbl="hp:panelview:events">
+http says:							<h3>Events</h3>
+http says:							<div class="hp11w3">
+http says:
+http says:									<div class="hp11w4">
+http says:												<ul>
+http says:													<li>
+http says:														<a data-lbl="cta-loc1:oracle-code:cta-030118-register-code" href="https://developer.oracle.com/code?source=WWMK170725P00097:ow:o:h:po:RC_WWMK171031P00005:CrossPromo&intcmp=WWMK170725P00097:ow:o:h:po:RC_WWMK171031P00005:CrossPromo" class="icn-cvthn-right beforewhite">
+http says:															<div class="hp11w5 o-bgimg" data-bgimg="/a/ocom/img/hp11-ocode17.jpg">&nbsp;</div>
+http says:															<div class="hp11w6">
+http says:															</div>
+http says:															<div class="hp11w7">
+http says:																<h4>ORACLE CODE</h4>
+http says:																<h3>Leading developer summit highlights AI, machine learning, containers and bots.</h3>
+http says:																<div class="hp11Arrow"></div>
+http says:																<div class="hp11w8">
+http says:																<hr />
+http says:																Coming to a city near you. 
+http says:																<p><div class="hp11GoBtn">Register today</div></p>
+http says:																</div>
+http says:															</div>
+http says:														</a>
+http says:													</li>
+http says:													<li>
+http says:														<a data-lbl="cta-loc2:modern-customer-experience:cta-022118-modern-cx-register" href="https://go.oracle.com/moderncx?elqCampaignId=110158&src1=:ow:o:h:feb:OcomHome&intcmp=WWMK170531P00325:ow:o:h:feb:OcomHome" class="icn-cvthn-right beforewhite">
+http says:															<div class="hp11w5 o-bgimg" data-bgimg="/a/ocom/img/hp11-modern-cx.jpg">&nbsp;</div>
+http says:															<div class="hp11w6">
+http says:															</div>
+http says:															<div class="hp11w7">
+http says:																<h4>MODERN CUSTOMER EXPERIENCE</h4>
+http says:																<h3>Achieve legendary CX results. April 10&ndash;12 in Chicago.</h3>
+http says:																<div class="hp11Arrow"></div>
+http says:																<div class="hp11w8">
+http says:																<hr />
+http says:																Use code CXLEGEND for $1,395 rate.
+http says:																<p><div class="hp11GoBtn">Register today</div></p>
+http says:																</div>
+http says:															</div>
+http says:														</a>
+http says:													</li>
+http says:													
+http says:													<li>
+http says:														<a data-lbl="cta-loc3:suiteworld18:cta-030118-suiteworld" href="http://www.netsuitesuiteworld.com/" class="icn-cvthn-right beforewhite">
+http says:															<div class="hp11w5 o-bgimg" data-bgimg="/a/ocom/img/hp11-suiteworld.jpg">&nbsp;</div>
+http says:															<div class="hp11w6">
+http says:															</div>
+http says:															<div class="hp11w7">
+http says:																<h4>SUITEWORLD18</h4>
+http says:																<h3>Learn Why Business Grows Here.</h3>
+http says:																<div class="hp11Arrow"></div>
+http says:																<div class="hp11w8">
+http says:																<hr />
+http says:																April 23&ndash;26, 2018
+http says:																<p><div class="hp11GoBtn">Register now</div></p>
+http says:																</div>
+http says:															</div>
+http says:														</a>
+http says:
+http says:													</li>
+http says:													
+http says:												</ul>
+http says:											</div>
+http says:
+http says:
+http says:							</div>
+http says:
+http says:					</div>
+http says:					<div class="hp11w2" data-lbl="hp:panelview:whatsnew">
+http says:							<h3>What's New</h3>
+http says:							<div class="hp11w3">
+http says:
+http says:									<div class="hp11w4">
+http says:
+http says:												<ul>
+http says:													<li>
+http says:														<a data-lbl="cta-loc1:productivity-boom:cta-021618-cloud-boom" href="/intelligent-finance-report/?source=NAMK180124P00073:ow:o:h:feb:OCOM_Home_Banner" class="icn-cvthn-right beforewhite">
+http says:															<div class="hp11w5 o-bgimg" data-bgimg="/a/ocom/img/hp11-intelligent-finance-report.jpg">&nbsp;</div>
+http says:															<div class="hp11w6">	<!-- Transparent tile -->
+http says:															</div>
+http says:															<div class="hp11w7">
+http says:																<h4>CLOUD PRODUCTIVITY GAINS</h4>
+http says:																<h3>AI, blockchain, IoT poised to drive $2 billion increase in US GDP.</h3>
+http says:																<div class="hp11Arrow"></div>
+http says:																<div class="hp11w8">
+http says:																<hr />
+http says:																Exclusive research quantifies productivity boom.
+http says:																<p><div class="hp11GoBtn">Get the report</div></p>
+http says:																</div>
+http says:															</div>
+http says:														</a>
+http says:													</li>
+http says:													
+http says:													<li>
+http says:														<a data-lbl="cta-loc2:java-se-9:cta-download-javase9" href="/java/java9.html?intcmp=ocom-hp0118" class="icn-cvthn-right beforewhite">
+http says:															<div class="hp11w5 o-bgimg" data-bgimg="/a/ocom/img/hp11-java-your-next-cloud.jpg">&nbsp;</div>
+http says:															<div class="hp11w6">
+http says:															</div>
+http says:															<div class="hp11w7">
+http says:																<h4>JAVA SE 9 DOWNLOAD</h4>
+http says:																<h3>Accelerate Java app development.</h3>
+http says:																<div class="hp11Arrow"></div>
+http says:																<div class="hp11w8">
+http says:																<hr />
+http says:																Take advantage of 150 new features.
+http says:																<p><div class="hp11GoBtn">Download now</div></p>
+http says:																</div>
+http says:															</div>
+http says:														</a>
+http says:													</li>
+http says:													
+http says:													<li>
+http says:														<a data-lbl="cta-loc3:next-gen-finance:cta-021418-new-ai-apps-erp" href="/corporate/pressrelease/oracle-adaptive-intelligent-applications-erp-021318.html" class="icn-cvthn-right beforewhite">
+http says:															<div class="hp11w5 o-bgimg" data-bgimg="/a/ocom/img/hp11-ai.jpg">&nbsp;</div>
+http says:															<div class="hp11w6">	<!-- Transparent tile -->
+http says:															</div>
+http says:															<div class="hp11w7">
+http says:																<h4>AI FOR NEXT-GEN FINANCE</h4>
+http says:																<h3>Applications automate transactional work, streamline processes.</h3>
+http says:																<div class="hp11Arrow"></div>
+http says:																<div class="hp11w8">
+http says:																<hr />
+http says:																New: Oracle Adaptive Intelligent Applications for ERP.
+http says:																<p><div class="hp11GoBtn">Get product details</div></p>
+http says:																</div>
+http says:															</div>
+http says:														</a>
+http says:													</li>
+http says:													
+http says:													
+http says:												</ul>
+http says:											</div>
+http says:
+http says:							</div>
+http says:					</div>
+http says:					<div class="hp11w2" data-lbl="hp:panelview:customersuccess">
+http says:							<h3>Customer Success</h3>
+http says:							<div class="hp11w3">
+http says:
+http says:									<div class="hp11w4">
+http says:												<ul>
+http says:													<li>
+http says:														<a data-lbl="hp11:hp:panelview:customersuccess:cta-loc1:cta-022618-cust-success-AEO" rel="brightcoveLightBox" title="American Eagle Outfitters Manages Workforce with HCM Cloud" href="[!--$HttpRelativeWebRoot--]groups/systemobject/@mktg_admin/documents/webcontent/videoplayer-ocom.html?bctid=5735417463001&amp;playerType=single-social&amp;size=events&amp;shareURL=https://www.oracle.com" class="icn-cvthn-right beforewhite"> 
+http says:														<div class="hp11w5 o-bgimg" data-bgimg="/a/ocom/img/hp11-american-eagle.jpg">&nbsp;</div>
+http says:															<div class="hp11w6"> <!-- Transparent tile --> </div> 
+http says:														<div class="hp11w7">
+http says:																<h4>AMERICAN EAGLE OUTFITTERS</h4> 
+http says:																<h3>Software updates via cloud align with business requirements.</h3>
+http says:																<div class="hp11Video"></div>
+http says:																<div class="hp11w8">
+http says:																<hr />
+http says:																Oracle HCM Cloud supports global, mobile workforce. 
+http says:																<p><div class="hp11GoBtn">Watch the video</div></p>
+http says:																</div>
+http says:															</div>
+http says:														</a>
+http says:													</li>
+http says:													<li>
+http says:														<a data-lbl="hp11:hp:panelview:customersuccess:cta-loc2:chatbox:watch-video" rel="brightcoveLightBox" title="Chatbox.com: Message-Based Interaction Driven by Automation" href="[!--$HttpRelativeWebRoot--]groups/systemobject/@mktg_admin/documents/webcontent/videoplayer-ocom.html?bctid=5723404030001&amp;playerType=single-social&amp;size=events&amp;shareURL=https://www.oracle.com" class="icn-cvthn-right beforewhite"> 
+http says:														<div class="hp11w5 o-bgimg" data-bgimg="/a/ocom/img/hp11-chatbox.jpg">&nbsp;</div>
+http says:														<div class="hp11w6">	<!-- Transparent tile -->
+http says:														</div>
+http says:														<div class="hp11w7">
+http says:															<h4>CHATBOX</h4>
+http says:															<h3>Instant app drives consumer-friendly, message-based interactions.  </h3>
+http says:															<div class="hp11Video"></div>
+http says:															<div class="hp11w8">
+http says:															<hr />
+http says:															Leverages Oracle Mobile and Intelligent Bots.
+http says:															<p><div class="hp11GoBtn">Intelligent bot benefits</div></p>
+http says:															</div>
+http says:														</div>
+http says:														</a>
+http says:													</li>
+http says:													<li>
+http says:														<a data-lbl="hp11:hp:panelview:customersuccess:cta-loc3:national-pharmacies:watch-video" rel="brightcoveLightBox" title="National Pharmacies Transforms IT with Oracle Cloud Platform" href="[!--$HttpRelativeWebRoot--]groups/systemobject/@mktg_admin/documents/webcontent/videoplayer-ocom.html?bctid=5723410009001&amp;playerType=single-social&amp;size=events&amp;shareURL=https://www.oracle.com" class="icn-cvthn-right beforewhite"> 
+http says:														<div class="hp11w5 o-bgimg" data-bgimg="/a/ocom/img/hp11-national-pharmacies.jpg">&nbsp;</div>
+http says:															<div class="hp11w6">
+http says:															</div>
+http says:															<div class="hp11w7">
+http says:																<h4>NATIONAL PHARMACIES</h4>
+http says:																<h3>Delivers targeted offers via mobile app to customers based on previous history. </h3>
+http says:																<div class="hp11Video"></div>
+http says:																<div class="hp11w8">
+http says:																<hr />
+http says:																Oracle Cloud Platform provides conversational governance.
+http says:																<p><div class="hp11GoBtn">Watch the video</div></p>
+http says:																</div>
+http says:															</div>
+http says:														</a>
+http says:													</li>
+http says:													
+http says:												</ul>
+http says:											</div>
+http says:
+http says:							</div>
+http says:					</div>
+http says:				</div>
+http says:			</div>
+http says:<!-- /HP11v0 -->
+http says:
+http says:<!-- CB27v4 -->
+http says:<div class="cb27 cb27v4" data-trackas="cb27">
+http says:	<div class="cb27w1 cwidth">
+http says:		<div class="cb27w2"><span>Experience Oracle Cloud</span>&mdash;Get $300 in free credits</div><div class="cb27w3"><a href="https://shop.oracle.com/apex/f?p=cloud:free&intcmp=ocom-hp" class="icn-arrowthn" data-lbl="hp:feature-banner:experience-oracle-cloud:cta:try-cloud-free">Try for free</a></div>
+http says:	</div>
+http says:</div>
+http says:<!-- /CB27v4 -->
+http says:
+http says:<!-- CB25v2 -->
+http says:<div class="cb25 cb25v2" data-trackas="cb25">
+http says:
+http says:	<div class="cb25w1">
+http says:			<div class="cb25w4"><h3>Choose Your Area of Interest</h3></div>
+http says:		<div class="cb25w2 cwidth" data-lbl="hp:interest-area">
+http says:
+http says:			<div class="cb25w3">
+http says:				<a href="https://developer.oracle.com/" target="_top" data-lbl="loc1:development">
+http says:					<div class="icn-img icn-developer-ops beforedarkburgundy">&nbsp;</div>
+http says:					<span>Development</span>
+http says:				</a>
+http says:			</div>
+http says:			<div class="cb25w3">
+http says:				<a href="/applications/erp/index.html" target="_top" data-lbl="loc2:finance">
+http says:					<div class="icn-img icn-reportb beforeblue">&nbsp;</div>
+http says:					<span>Finance</span>
+http says:				</a>
+http says:			</div>
+http says:
+http says:			<div class="cb25w3">
+http says:				<a href="/applications/human-capital-management/index.html" target="_top" data-lbl="loc3:hcm-hr">
+http says:
+http says:					<div class="icn-img icn-workforce beforegreen">&nbsp;</div>
+http says:					<span>HCM/HR</span>
+http says:				</a>
+http says:			</div>
+http says:			<div class="cb25w3">
+http says:				<a href="http://www.oracle.com/technetwork/index.html" target="_top" data-lbl="loc4:it">
+http says:					<div class="icn-img icn-innovation beforedarkslate">&nbsp;</div>
+http says:					<span>IT</span>
+http says:				</a>
+http says:
+http says:
+http says:
+http says:			</div>
+http says:
+http says:			<div class="cb25w3">
+http says:				<a href="/marketingcloud/index.html" target="_top" data-lbl="loc5:marketing">
+http says:					<div class="icn-img icn-sales beforeorange">&nbsp;</div>
+http says:					<span>Marketing</span>
+http says:				</a>
+http says:			</div>
+http says:			<div class="cb25w3">
+http says:				<a href="/applications/customer-experience/sales/index.html" target="_top" data-lbl="loc6:sales">
+http says:					<div class="icn-img icn-chartfolder beforeburgundy">&nbsp;</div>
+http says:					<span>Sales</span>
+http says:				</a>
+http says:			</div>
+http says:			<div class="cb25w3">
+http says:				<a href="/applications/customer-experience/service/index.html" target="_top" data-lbl="loc7:service">
+http says:					<div class="icn-img icn-service beforeslate">&nbsp;</div>
+http says:					<span>Service</span>
+http says:				</a>
+http says:			</div>
+http says:			<div class="cb25w3">
+http says:				<a href="/applications/supply-chain-management/" target="_top" data-lbl="loc8:supply-chain">
+http says:					<div class="icn-img icn-logistics beforedarkorange">&nbsp;</div>
+http says:					<span>Supply Chain</span>
+http says:				</a>
+http says:			</div>
+http says:			
+http says:		</div>
+http says:	</div>
+http says:
+http says:
+http says:</div>
+http says:<!-- /CB25v2 -->
+http says:
+http says:<!-- CB50v0 -->
+http says:<div class="cb50 cb50v0" data-trackas="cb50">
+http says:
+http says:	<div class="cb50w1 cwidth" data-lbl="hp:more-about-oracle">
+http says:
+http says:		<h2>More About Oracle</h2>
+http says:
+http says:		<ul>
+http says:			<li class="cb50c1">
+http says:				<a href="/corporate/pressrelease/oracle-autonomous-paas-021218.html" data-lbl="loc1:cta-022118-aut-cloud-announcement">
+http says:					<img src="/a/ocom/img/cb50-autonomous-paas.jpg" alt="Autonomous Cloud" />
+http says:					<div class="cb50w2 icn-arrowthn">
+http says:					<h3>Autonomous Cloud</h3>
+http says:					</div>
+http says:				</a>
+http says:				<p>All Oracle cloud platform services are now self-driving, self-securing, and self-repairing.</p>
+http says:			</li>
+http says:			<li class="cb50c2">
+http says:				<a href="/corporate/pressrelease/oracle-expands-global-startup-ecosystem-021318.html" data-lbl="loc2:cta-021418-ecosystem-startups">
+http says:					<img src="/a/ocom/img/cb50-machine-learning-blog.jpg" alt="Startup Ecosystem" />
+http says:					<div class="cb50w2 icn-arrowthn">
+http says:					<h3>Startup Ecosystem</h3>
+http says:					</div>
+http says:				</a>
+http says:				<p>Virtual-style Oracle Scaleup Ecosystem supports innovators and entrepreneurs regardless of location.</p>
+http says:			</li>
+http says:			<li class="cb50c3">
+http says:				<a href="https://blogs.oracle.com/infrastructure/4-steps-to-enhance-financial-data-security-in-your-organization" data-lbl="loc3:cta-020918-fin-security">
+http says:					<img src="/a/ocom/img/cb50-financial-data-security.jpg" alt="Financial Data Security" />
+http says:					<div class="cb50w2 icn-arrowthn">
+http says:					<h3>Financial Data Security</h3>
+http says:					</div>
+http says:				</a>
+http says:				<p>Financial services firms are a top target of cyberattacks. Learn four pillars of security to prevent breaches.</p>
+http says:			</li>
+http says:			<li class="cb50c4">
+http says:				<a href="http://www.oracle.com/technetwork/java/javamagazine/index.html" data-lbl="loc4:cta-020818-java-mag">
+http says:					<img src="/a/ocom/img/cb50-javamag-jan-feb.jpg" alt="Java Magazine" />
+http says:					<div class="cb50w2 icn-arrowthn">
+http says:					<h3>Reactive Programming</h3>
+http says:					</div>
+http says:				</a>
+http says:				<p>Java Magazine: Handle large data streams efficiently; programming with JAX-RS.</p>
+http says:			</li>
+http says:			
+http says:			
+http says:			
+http says:		</ul>
+http says:  </div>
+http says:
+http says:</div>
+http says:<!-- /CB50v0 -->
+http says:
+http says:<!-- U10v2 -->
+http says:<div id="u10" class="u10v2" data-trackas="ffooter-spot">
+http says:<div class="u10w1">
+http says:
+http says:<div class="u10w2">
+http says:	<a href="https://www.oracle.com/search/events" target="_top" data-lbl="hp:loc1:find-an-event">
+http says:	<div class="u10w6 icn-img icn-levent">&nbsp;</div>
+http says:	<span>Find an Event</span>
+http says:	<div class="u10w7 icn-img icn-arrowthn">&nbsp;</div>
+http says:	</a>
+http says:</div>
+http says:<div class="u10w2">
+http says:	<a href="https://cloud.oracle.com/tryit?intcmp=ocom-ft" target="_top" data-lbl="hp:loc2:get-a-free-trial">
+http says:	<div class="u10w6 icn-img icn-software">&nbsp;</div>
+http says:	<span>Get a Free Trial</span>
+http says:	<div class="u10w7 icn-img icn-arrowthn">&nbsp;</div>
+http says:	</a>
+http says:</div>
+http says:<div class="u10w2">
+http says:	<a href="/corporate/contact/global.html" target="_top" data-lbl="hp:loc3:contact-us">
+http says:	<div class="u10w6 icn-img icn-service">&nbsp;</div>
+http says:	<span>Contact Us</span>
+http says:	<div class="u10w7 icn-img icn-arrowthn">&nbsp;</div>
+http says:	</a>
+http says:</div>
+http says:<div class="u10w2">
+http says:	<a href="https://solutions.oracle.com/scwar/scr/Partners/index.html" target="_top" data-lbl="hp:loc4:find-a-partner">
+http says:	<div class="u10w6 icn-img icn-relations">&nbsp;</div>
+http says:	<span>Find a Partner</span>
+http says:	<div class="u10w7 icn-img icn-arrowthn">&nbsp;</div>
+http says:	</a>
+http says:</div>
+http says:
+http says:</div>
+http says:</div>
+http says:<!-- /U10v2 -->
+http says:
+http says:
+http says:
+http says:<!-- END: oWidget_C/_Raw-Text/Display -->
+http says:
+http says:		<!-- Home Page Widget - 2 -->
+http says:		
+http says:	<!-- Dispatcher:null -->
+http says:	
+http says:<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+http says:<!--Organization Schema Markup -->
+http says:<script type="application/ld+json">
+http says:{"@context" : "http://schema.org",
+http says:"@type" : "Organization",
+http says:"name" : "Oracle Corporation",
+http says:"url" : "https://www.oracle.com/index.html",
+http says:"logo": "https://www.oracle.com/webfolder/s/brand/assets/i/specimens/identity/logo/primary-badge.gif",
+http says:"sameAs" : ["https://www.facebook.com/Oracle","https://www.twitter.com/Oracle","https://plus.google.com/+Oracle","https://www.linkedin.com/company/oracle","https://www.instagram.com/oracle/","https://www.youtube.com/user/Oracle"],
+http says:"contactPoint" : [
+http says:{ "@type" : "ContactPoint",
+http says:"telephone" : "+1-800-392-2999",
+http says:"contactType" : "customer service",
+http says:"contactOption" : "TollFree",
+http says:"areaServed" : "US"} ,
+http says:{"@type" : "ContactPoint",
+http says:"telephone" : "+1-800-223-1711",
+http says:"contactType" : "technical support",
+http says:"contactOption" : "TollFree" ,
+http says:"areaServed" : "US"} ,
+http says:{"@type" : "ContactPoint",
+http says:"telephone" : "+1-800-633-0738",
+http says:"contactType" : "sales",
+http says:"contactOption" : "TollFree" ,
+http says:"areaServed" : "US"} ]
+http says:}
+http says:</script>
+http says:<!--End Organization Schema Markup-->
+http says:
+http says:
+http says:
+http says:
+http says:<!-- END: oWidget_C/_Raw-Text/Display -->
+http says:
+http says:
+http says:<!--  END:  Compass/HomePage3/Slots -->
+http says:
+http says:
+http says:	<!-- Dispatcher:null -->
+http says:	
+http says:<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+http says:<!-- U10v0 -->
+http says:<div id="u10" class="u10v0" data-trackas="ffooter">
+http says:<div class="u10w1">
+http says:<div class="u10w2">
+http says:<div class="u10w3">
+http says:<h5>Contact Us</h5>
+http says:<ul>
+http says:<li>US Sales: +1.800.633.0738</li>
+http says:<li><a data-lbl="contact-us:have-oracle-call-you" href="javascript:startCallback('0i2wzK12842','customer data')" onclick="navTrack('ocom','en','rhs-contact','callmenow-oracle');">Have Oracle Call You</a></li>
+http says:<li><a data-lbl="contact-us:global-contacts" href="/corporate/contact/global.html">Global Contacts</a></li>
+http says:<li><a data-lbl="contact-us:support-directory" href="/support/contact.html">Support Directory</a></li>
+http says:</ul>
+http says:</div>
+http says:
+http says:<div class="u10w3">
+http says:<h5>About Oracle</h5>
+http says:<ul>
+http says:<li><a data-lbl="about-oracle:company-information" href="/corporate/index.html">Company Information</a></li>
+http says:<li><a data-lbl="about-oracle:communities" href="https://community.oracle.com/welcome">Communities</a></li>
+http says:<li><a data-lbl="about-oracle:careers" href="/corporate/careers/index.html">Careers</a></li>
+http says:<li><a data-lbl="about-oracle:customer-successes" href="/search/customers">Customer Successes</a></li>
+http says:</ul>
+http says:
+http says:</div>
+http says:</div>
+http says:
+http says:<div class="u10w2">
+http says:<div class="u10w3">
+http says:<h5>Cloud</h5>
+http says:<ul>
+http says:<li><a data-lbl="cloud:overview-of-cloud-solutions" href="/cloud/index.html">Overview of Cloud Solutions</a></li>
+http says:<li><a data-lbl="cloud:software(saas)" href="https://cloud.oracle.com/saas?intcmp=ocom-ft">Software (SaaS)</a></li>
+http says:<li><a data-lbl="cloud:platform(paas)" href="https://cloud.oracle.com/paas?intcmp=ocom-ft">Platform (PaaS)</a></li>
+http says:<li><a data-lbl="cloud:infrastructure(iaas)" href="https://cloud.oracle.com/iaas?intcmp=ocom-ft">Infrastructure (IaaS)</a></li>
+http says:<li><a data-lbl="cloud:data(daas)" href="https://cloud.oracle.com/data-cloud?intcmp=ocom-ft">Data (DaaS)</a></li>
+http says:<li><a data-lbl="cloud:free-cloud-trial" href="https://cloud.oracle.com/tryit?intcmp=ocom-ft">Free Cloud Trial</a></li>						
+http says:</ul>
+http says:</div>
+http says:<div class="u10w3">
+http says:<h5>Events</h5>
+http says:<ul>
+http says:<li><a data-lbl="events:oracle-openworld" href="/openworld/index.html">Oracle OpenWorld</a></li>
+http says:<li><a data-lbl="events:oracle-code" href="https://developer.oracle.com/code">Oracle Code</a></li>
+http says:<li><a data-lbl="events:javaone" href="/javaone/index.html">JavaOne</a></li>
+http says:<li><a data-lbl="events:all-oracle-events" href="/search/events">All Oracle Events</a></li>
+http says:</ul>
+http says:</div>
+http says:</div>
+http says:
+http says:
+http says:<div class="u10w2">
+http says:<div class="u10w3">
+http says:<h5>Top Actions</h5>
+http says:<ul>
+http says:<li><a data-lbl="top-actions:download-java" href="https://www.java.com/download/">Download Java</a></li>
+http says:<li><a data-lbl="top-actions:download-java-for-developers" href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Download Java for Developers</a></li>
+http says:<li><a data-lbl="top-actions:try-oracle-cloud" href="https://cloud.oracle.com/tryit?intcmp=ocom-ft">Try Oracle Cloud</a></li>
+http says:<li><a data-lbl="top-actions:subscribe-to-emails" href="https://go.oracle.com/subscriptions?l_code=en-us&src1=OW:O:FO">Subscribe to Emails</a></li>
+http says:</ul>
+http says:</div>
+http says:<div class="u10w3">
+http says:<h5>News</h5>
+http says:<ul>
+http says:<li><a data-lbl="news:newsroom" href="/corporate/press/index.html">Newsroom</a></li>
+http says:<li><a data-lbl="news:magazines" href="http://www.oracle.com/us/corporate/publishing/index.html">Magazines</a></li>
+http says:<li><a data-lbl="news:acquisitions" href="/corporate/acquisitions/index.html">Acquisitions</a></li>
+http says:<li><a data-lbl="news:blogs" href="https://blogs.oracle.com/">Blogs</a></li>
+http says:</ul>
+http says:</div>
+http says:</div>
+http says:<div class="u10w2">
+http says:<div class="u10w3">
+http says:<h5>Key Topics</h5>
+http says:<ul>
+http says:<li><a data-lbl="key-topics:erp-erm(finance)" href="/applications/erp/index.html">ERP, EPM (Finance)</a></li>
+http says:<li><a data-lbl="key-topics:netsuite" href="http://www.netsuite.com/index.html">NetSuite</a></li>
+http says:<li><a data-lbl="key-topics:hcm(hr-talent)" href="/applications/human-capital-management/index.html">HCM (HR, Talent)</a></li>
+http says:<li><a data-lbl="key-topics:marketing-cloud" href="/marketingcloud/index.html">Marketing Cloud</a></li>
+http says:<li><a data-lbl="key-topics:cx(sales-service-commerce)" href="/applications/customer-experience/index.html">CX (Sales, Service, Commerce)</a></li>
+http says:<li><a data-lbl="key-topics:supply-chain" href="/applications/supply-chain-management/index.html">Supply Chain</a></li>
+http says:<li><a data-lbl="key-topics:industry-solutions" href="/industries/index.html">Industry Solutions</a></li>
+http says:<li><a data-lbl="key-topics:database" href="/database/index.html">Database</a></li>
+http says:<li><a data-lbl="key-topics:mysql" href="/mysql/index.html">MySQL</a></li>
+http says:<li><a data-lbl="key-topics:middleware" href="/middleware/index.html">Middleware</a></li>
+http says:<li><a data-lbl="key-topics:java" href="/java/index.html">Java</a></li>
+http says:<li><a data-lbl="key-topics:engineered-systems" href="/engineered-systems/index.html">Engineered Systems</a></li>
+http says:</ul>
+http says:</div>
+http says:</div>
+http says:
+http says:<div class="u10w4">
+http says:<hr />
+http says:</div>
+http says:<div class="u10w5" data-trackas="footer">
+http says:
+http says:<ul class="scl-icons">
+http says:<li class="scl-facebook"><a data-lbl="scl-icon:facebook" href="http://www.oracle.com/us/social-media/facebook/index.html" title="Oracle on Facebook">Facebook</a></li>
+http says:<li class="scl-twitter"><a data-lbl="scl-icon:twitter" href="http://www.oracle.com/us/social-media/twitter/index.html" title="Follow Oracle on Twitter">Twitter</a></li>
+http says:<li class="scl-linkedin"><a data-lbl="scl-icon:linkedin" href="http://www.oracle.com/us/social-media/linkedin/index.html" title="Oracle on LinkedIn">LinkedIn</a></li>
+http says:<li class="scl-googleplus"><a data-lbl="scl-icon:google-plus" href="https://plus.google.com/115607918987921226255" title="Follow Oracle on Google+">Google+</a></li>
+http says:<li class="scl-youtube"><a data-lbl="scl-icon:you-tube" href="http://www.youtube.com/oracle/" title="Watch Oracle on YouTube">YouTube</a></li>
+http says:<li class="scl-feed"><a data-lbl="scl-icon:rss" href="http://www.oracle.com/us/syndication/feeds/index.html" title="Oracle RSS Feeds">Oracle RSS Feed</a></li>
+http says:</ul>
+http says:
+http says:<div class="u10-ologo"><a data-lbl="integrated-cloud-applications-and-platform-services" href="/index.html">Oracle</a></div>
+http says:<h3>Integrated Cloud Applications &amp; Platform Services</h3>
+http says:
+http says:<ul class="u10-links">
+http says:<li><a data-lbl="copyright" href="/legal/copyright.html">&copy; Oracle</a></li>
+http says:<li><a data-lbl="site-map" href="/sitemap.html">Site Map</a></li>
+http says:<li><a data-lbl="terms-of-use-and-privacy" href="/legal/privacy/index.html">Terms of Use and Privacy</a></li>
+http says:<li><div id="teconsent"></div></li>
+http says:<li class="u10last"><a data-lbl="ad-choices" href="/legal/privacy/privacy-policy.html#advertising">Ad Choices</a></li>
+http says:</ul>
+http says:
+http says:</div>
+http says:</div>
+http says:</div>
+http says:<!-- /U10v0 -->
+http says:
+http says:
+http says:
+http says:<!-- END: oWidget_C/_Raw-Text/Display -->
+http says:
+http says:	<!-- Dispatcher:null -->
+http says:	
+http says:<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+http says:<!-- Start SiteCatalyst code -->
+http says:<script language="JavaScript" src="https://www.oracleimg.com/us/assets/metrics/ora_ocom_hp.js"></script>
+http says:<!-- End SiteCatalyst code --> 
+http says:
+http says:
+http says:
+http says:<!-- END: oWidget_C/_Raw-Text/Display -->
+http says:
+http says:
+http says:	</div>
+http says:
+http says:	
+http says:	<!-- Dispatcher:null -->
+http says:	
+http says:<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+http says:<!-- OCOM HomePage EndBodyAdminContainer --> 
+http says:<!--DTM embed code - Footer -->
+http says:<script type="text/javascript">_satellite.pageBottom();</script>
+http says:<!--End-->
+http says:
+http says:
+http says:
+http says:<!-- END: oWidget_C/_Raw-Text/Display -->
+http says:
+http says:
+http says:</body>
+http says:
+http says:<!-- END:  Compass/HomePage3/Element/Body -->
+http says:
+http says: 
+http says:
+http says:<!-- END:  Compass/HomePage3 -->
+http says:
+http says:</html>
+http says:
